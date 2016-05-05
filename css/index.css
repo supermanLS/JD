@@ -71,6 +71,7 @@
 	display: block;
 	text-align: left;
 }
+
 .wdjdleft a:hover{
 	color:#c81623;
 }
@@ -255,6 +256,9 @@
 	margin-top:25px; 
 	
 	float: left;
+}
+.headright .xlbtnnr{
+	display: none;
 }
 #sou{
 	width: 456px;
